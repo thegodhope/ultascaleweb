@@ -1,0 +1,13 @@
+<svg width="720" height="160" viewBox="0 0 720 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g" x1="20" y1="20" x2="130" y2="130" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF5A5F"/>
+      <stop offset="1" stop-color="#E63946"/>
+    </linearGradient>
+  </defs>
+  <path d="M20 92V68L42 46V70L20 92Z" fill="url(#g)"/>
+  <path d="M52 70V40L74 18V48L52 70Z" fill="url(#g)"/>
+  <path d="M84 48V18L106 0V92L62 136L18 92L30 80L62 112L84 92V48Z" fill="url(#g)"/>
+  <text x="145" y="76" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="56" font-weight="700" letter-spacing="2">ULTASCALE</text>
+  <text x="146" y="122" fill="#E63946" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="600" letter-spacing="1">BUILD. BRAND. SCALE.</text>
+</svg>
